@@ -1,5 +1,5 @@
 1.如何在激活的环境中打开jupyter notebook?
-> 详细方法: [link](https://blog.csdn.net/w55100/article/details/88925697)
+> 详细方法: [link](https://blog.csdn.net/w55100/article/details/88925697)  
 > shortcuts:
 > 激活虚拟环境，以env为例，安装jupyter插件ipykernel
 > ```
